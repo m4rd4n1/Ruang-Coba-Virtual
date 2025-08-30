@@ -1,0 +1,5 @@
+{
+  "name": "satukan gambar ( model dan busana )",
+  "description": "Aplikasi yang menggunakan AI generatif untuk menempatkan item pakaian secara realistis ke foto seseorang. Unggah foto model dan pakaian untuk melihat hasil coba-coba virtual.",
+  "requestFramePermissions": []
+}
